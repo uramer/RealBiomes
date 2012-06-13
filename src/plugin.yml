@@ -1,0 +1,8 @@
+name: RealBiomes
+main: me.uramer.RealBiomes
+version: 0.1d
+commands:
+  rbiomes:
+    description: This is help command
+    usage: /rbiomes
+    permission-message: You don't have <permission>
